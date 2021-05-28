@@ -60,7 +60,7 @@ Aprendimos la adquisición y procesamiento de datos de Twitter. Para el taller s
 10. 😂🥺😱😠🤗 [Taller #12: Análisis de sentimientos](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/Taller%2012JM.ipynb) 👆
 En  el último taller, hicimos un análisis de sentimientos a los tweets adquiridos en el taller anterior. Del análisis obtuvimos 169 tweets positivos ❤️ y 331 negativos 💔.
 
-[Visita mi portafolio](https://chomely.github.io/Portafolio-NLP/)
+[Visita mi portafolio](https://chomely.github.io/Portafolio_NLP/)
 
 Para conocer más sobre mí:
 * [Linkedin](https://www.linkedin.com/in/julieth-andrea-murte-tavera-276678144/)
