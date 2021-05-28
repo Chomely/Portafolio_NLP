@@ -29,7 +29,7 @@ inicialmente pasamos el texto a minúsculas, quitamos caracteres especiales núm
 una representación vectorial de los datos.
 
 
-4. 🔡 [Taller #5: TF-IDF](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/Taller%205JM.ipynb) 👆
+4. 🔡 [Taller #5: TF-IDF](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/Taller%205JM_.ipynb) 👆
 Aprendimos a cuantificar la importancia de las palabras de los documentos y el corpus. Utilizamos un corpus de Bob Esponja, realiamos el pre procesamiento de los datos y encontramos los personajes más y menos parecidos.
 Spoiler ¡¡ Eugenio H, Cangrejo y Sheldon J, Plankton son lo más precidos.
 
