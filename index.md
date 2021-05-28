@@ -9,7 +9,7 @@ de suerte y azar. 🎰🃏
 A continuación encontrarás una breve descripción y los links de los talleres desarrollados en la clase de procesamiento de lenguaje natural (NLP) de la Especialización en Analítica Estratégica de Datos 
 de la Konrad Lorenz. 
 
-Ingresa a cada enlace y descrubre una pequeña parte del increíble mundo 🌍 del análisis de texto con Phyton.	
+Ingresa a cada enlace y descubre una pequeña parte del increíble mundo 🌍 del análisis de texto con Phyton.		
 
 ## **Talleres**
 
