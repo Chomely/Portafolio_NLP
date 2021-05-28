@@ -29,7 +29,7 @@ inicialmente pasamos el texto a minúsculas, quitamos caracteres especiales núm
 una representación vectorial de los datos.
 
 
-4. 🔡 [Taller #5: TF-IDF](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/Taller%205JM.ipynb) 👆
+4. 🔡 [Taller #5: TF-IDF](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/Taller%205JM_.ipynb) 👆
 Aprendimos a cuantificar la importancia de las palabras de los documentos y el corpus. Utilizamos un corpus de Bob Esponja, realiamos el pre procesamiento de los datos y encontramos los personajes más y menos parecidos.
 Spoiler ¡¡ Eugenio H, Cangrejo y Sheldon J, Plankton son lo más precidos.
 
@@ -52,6 +52,7 @@ más sobresalientes. Por ejemplo, si el mensaje habla de juegos, pedidos, joyas,
 8. ☁️ [Taller #10: Nube de Palabras](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/Taller%2010JM%20.ipynb) 👆
 Mi primera nube de palabras y la realice con base en el primer corpues adquirido del pre procesamiento del libro El Hobbit o historia de una ida y una vuelta de JRR Tolkien.
 Las palabras más relevantes son Thorin, montaña, Gandalf, trasgo, Hobbit..
+
 
 9. 💬 [Taller #11: Twitter](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/Taller%2011JM.ipynb) 👆
 Aprendimos la adquisición y procesamiento de datos de Twitter. Para el taller se obtuvieron 500 tweets de la ciudad de Cali-Colombia y realizando la búsqueta con los términos ESMAD y POLICIA. 
