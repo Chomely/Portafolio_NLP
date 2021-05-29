@@ -28,13 +28,12 @@ En este taller trabajamos en los pasos dos, tres y cuatro: *Limpieza de texto*, 
 inicialmente pasamos el texto a minúsculas, quitamos caracteres especiales números y palabras vacías. Luego adquirimos las palabras más importantes he hicimos 
 una representación vectorial de los datos.
 
-
-4. 🔡 [Taller #5: TF-IDF](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/Taller%205JM_.ipynb) 👆
+4. 🔡 [Taller #5: TF-IDF](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/TallerJM5.ipynb) 👆
 Aprendimos a cuantificar la importancia de las palabras de los documentos y el corpus. Utilizamos un corpus de Bob Esponja, realiamos el pre procesamiento de los datos y encontramos los personajes más y menos parecidos.
 Spoiler ¡¡ Eugenio H, Cangrejo y Sheldon J, Plankton son lo más precidos.
 
 
-5. 🧲 [Taller #7: Clasificación de textos](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-5LP-/blob/main/Taller%207JM.ipynb) 👆
+5. 🧲 [Taller #7: Clasificación de textos](https://github.com/Chomely/Procesamiento-de-Lenguaje-Natural-NLP-/blob/main/Taller%207JM.ipynb) 👆
 El objetivo era predecir la categoría de uno productos basado en el texto de los usuarios. Utilizamos cuatros modelos Naive Bayes-Regresion Logistica, Árbol de decisión y 
 Support Vector Machine. Calculamos las metricas de evalución y realizamos nuestra matriz de confusión. 
 
